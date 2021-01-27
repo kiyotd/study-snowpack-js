@@ -1,0 +1,14 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  }
+}
